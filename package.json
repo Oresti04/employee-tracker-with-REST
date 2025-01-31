@@ -1,0 +1,21 @@
+{
+  "name": "kisi_project04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "companydata": "file:../Downloads/DataLayer for Students/companydata",
+    "date-fns": "^4.1.0",
+    "express": "^4.21.1",
+    "moment": "^2.30.1",
+    "mysql2": "^3.11.5",
+    "sync-sql": "^1.0.2"
+  }
+}
